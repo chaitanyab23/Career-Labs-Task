@@ -1,0 +1,27 @@
+.records{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    justify-content: center;
+    text-decoration: none;
+
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: cadetblue;
+    text-decoration: none;
+
+}
+
+.button{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
