@@ -1,8 +1,8 @@
 # <h1>Career-Labs-Task<h1/>
 # What You Should Do 
-    -Fork this Repo<br/>
-    -Clone this Repo<br/>
-    -Use **npm Start** Command to run the project<br/>
+    -Fork this Repo
+    -Clone this Repo
+    -Use **npm Start** Command to run the project
     
     
 # To check online this project visit 
