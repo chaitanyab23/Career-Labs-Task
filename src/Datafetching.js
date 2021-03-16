@@ -52,7 +52,11 @@ function Datafetching() {
                                                             <b>Provider : </b>{post.Provider}<br/>
                                                             <b>University Name: </b>{post["Universities/Institutions"]}<br/>
                                                             <b>Url : </b>{post["Url"]}<br/>
-                                                            <b>Next Session Date : </b>{post["Next Session Date"]}<br/><br/></p>)
+                                                            <b>Next Session Date : </b>{post["Next Session Date"]}<br/>
+                                                            <b>Parent Subject : </b>{post["Parent Subject"]}<br/>
+                                                            <b>Child Subject : </b>{post["Child Subject"]}<br/>
+                                                            <b>Length : </b>{post["Length"]}<br/>
+                                                            <b>Video(Url) : </b>{post["Video(Url)"]}<br/><br/></p>)
                 }
                 
                 
