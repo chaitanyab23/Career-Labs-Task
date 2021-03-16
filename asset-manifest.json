@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Career-Labs-Task/static/css/main.473f2cd2.chunk.css",
-    "main.js": "/Career-Labs-Task/static/js/main.857d20ee.chunk.js",
-    "main.js.map": "/Career-Labs-Task/static/js/main.857d20ee.chunk.js.map",
+    "main.js": "/Career-Labs-Task/static/js/main.0ddf5d81.chunk.js",
+    "main.js.map": "/Career-Labs-Task/static/js/main.0ddf5d81.chunk.js.map",
     "runtime-main.js": "/Career-Labs-Task/static/js/runtime-main.72110295.js",
     "runtime-main.js.map": "/Career-Labs-Task/static/js/runtime-main.72110295.js.map",
     "static/js/2.bfa3fb82.chunk.js": "/Career-Labs-Task/static/js/2.bfa3fb82.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.72110295.js",
     "static/js/2.bfa3fb82.chunk.js",
     "static/css/main.473f2cd2.chunk.css",
-    "static/js/main.857d20ee.chunk.js"
+    "static/js/main.0ddf5d81.chunk.js"
   ]
 }
