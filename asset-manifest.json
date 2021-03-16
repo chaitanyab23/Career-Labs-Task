@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Career-Labs-Task/static/css/main.473f2cd2.chunk.css",
+    "main.css": "/Career-Labs-Task/static/css/main.90ad1fa2.chunk.css",
     "main.js": "/Career-Labs-Task/static/js/main.0ddf5d81.chunk.js",
     "main.js.map": "/Career-Labs-Task/static/js/main.0ddf5d81.chunk.js.map",
     "runtime-main.js": "/Career-Labs-Task/static/js/runtime-main.72110295.js",
@@ -10,13 +10,13 @@
     "static/js/3.499009ed.chunk.js": "/Career-Labs-Task/static/js/3.499009ed.chunk.js",
     "static/js/3.499009ed.chunk.js.map": "/Career-Labs-Task/static/js/3.499009ed.chunk.js.map",
     "index.html": "/Career-Labs-Task/index.html",
-    "static/css/main.473f2cd2.chunk.css.map": "/Career-Labs-Task/static/css/main.473f2cd2.chunk.css.map",
+    "static/css/main.90ad1fa2.chunk.css.map": "/Career-Labs-Task/static/css/main.90ad1fa2.chunk.css.map",
     "static/js/2.bfa3fb82.chunk.js.LICENSE.txt": "/Career-Labs-Task/static/js/2.bfa3fb82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.72110295.js",
     "static/js/2.bfa3fb82.chunk.js",
-    "static/css/main.473f2cd2.chunk.css",
+    "static/css/main.90ad1fa2.chunk.css",
     "static/js/main.0ddf5d81.chunk.js"
   ]
 }
